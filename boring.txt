@@ -1,1 +1,40 @@
-MRL_GerFacMap_2025!xA7
+How to Run the App
+Download the app -> 
+Once downloaded, simply double click and the app will automatically open in your default browser.
+Enter the password to access the map: MRL_GerFacMap_2025!x
+When you're done searching, simply close the browser tab. The app will automatically shut down in the background — no processes remain running.
+
+Using the Interactive Map
+Facility Groups
+Tick one or more groups:
+(P) Pharmacies
+(H) Hospitals
+(R) Rehabs
+(D) Physicians
+Only selected groups will appear on the map.
+
+Filters
+Each facility type has its own expandable section where you can filter by:
+VCA status (for pharmacies)
+VCA Type (for VCA pharmacies)
+Operator type (hospitals & rehabs)
+Facility type (hospitals & rehabs)
+Specialities (hospitals & physicians)
+All filters support:
+Multi-select
+Search inside dropdowns
+Collapsible panels
+
+Proximity Filter
+You can show pharmacies within 1-25 km of any visible hospitals, physicians, or rehabs:
+Tick any non-pharmacy facility group
+Enable: “Show pharmacies within X km of selected facilities”
+Adjust the radius slider (1–25 km)
+Exporting Data
+Click Export to Excel to download the full list of currently visible facilities as a .xlsx file.
+
+Troubleshooting
+App does not open automatically: Open your browser and go to: http://127.0.0.1:5000
+Antivirus warns about the EXE: This is normal with unsigned internal apps; select “Allow”
+Map loads slowly on first run: Large facility datasets are loading; subsequent use is instant
+Filters seem unresponsive: Click Reset Filters and re-select your options
